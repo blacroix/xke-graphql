@@ -1,5 +1,7 @@
 # POC GraphQL and Kotlin
 
+> Solution for [XKE Hands'On GraphQL](https://github.com/xebia-france/hands-on-graphql)
+
 ## Stack
 
 - [Ktor](http://ktor.io/)
